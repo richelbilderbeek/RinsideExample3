@@ -1,5 +1,6 @@
 # RinsideExample3
-Rinside example 3
+
+[Rinside](https://github.com/richelbilderbeek/cpp/blob/master/content/CppRinside.md) example 3
 
 ![](CppRinsideExample3.png)
 
